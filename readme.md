@@ -112,9 +112,8 @@ Create checklists as simple markdown files or spreadsheets. Example areas to cov
 ## Attribution & License
 This repo is a community-created adaptation for Entra ID assessments. Original Azure AD Assessment content is authored by Microsoft and available under the AzureADAssessment project. Where content or commands are taken from Microsoft’s materials, we include attribution and links back to Microsoft. See Microsoft’s original guide for further legal or licensing statements. citeturn0view0
 
-**Recommended repository LICENSE:** MIT (or your organization’s preferred license). Add a `LICENSE.md` file.
 
-**Suggested credit block (place in README.md):**
+
 
 > This Entra ID Assessment is adapted from Microsoft’s Azure AD Assessment Guide. Original content © Microsoft. Used with attribution. Link: Microsoft Azure AD Assessment Guide. citeturn0view0
 
