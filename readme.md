@@ -120,22 +120,7 @@ This repo is a community-created adaptation for Entra ID assessments. Original A
 
 ---
 
-## How to publish this on GitHub (quick steps)
-1. Create a new repository under your GitHub account (e.g., `EntraID-Assessment`).
-2. Add the files from the layout above. Commit `README.md`, `ASSESSMENT_GUIDE.md`, `LICENSE.md`, `templates/`, `scripts/`.
-3. Push to `main` (or `trunk`).
-4. Enable the Wiki if you want to host long-form guidance; alternatively keep docs in `/docs` or `ASSESSMENT_GUIDE.md`.
-5. Add `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` to encourage community contributions.
-6. In `README.md` include the credit block and a short notice about sensitive data handling.
 
----
-
-## Next steps I can help with
-- Create the actual `interview-worksheet.xlsx` and `report-out.pptx` templates.
-- Produce the `collect-data.ps1` wrapper that runs Microsoft/Entra collection scripts and packages results securely.
-- Create the `README.md` and `CONTRIBUTING.md` files tailored to your organisation.
-
-If you want me to **generate the templates** (worksheet, PowerPoint, or PowerShell script) I can create them now and add them to this repo content.
 
 ---
 
